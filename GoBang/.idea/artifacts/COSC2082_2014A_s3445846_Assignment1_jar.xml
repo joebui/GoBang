@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="COSC2082_2014A_s3445846_Assignment1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/COSC2082_2014A_s3445846_Assignment1_jar</output-path>
+    <root id="archive" name="COSC2082_2014A_s3445846_Assignment1.jar">
+      <element id="module-output" name="COSC2082_2014A_s3445846_Assignment1" />
+    </root>
+  </artifact>
+</component>
