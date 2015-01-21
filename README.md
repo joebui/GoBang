@@ -1,3 +1,3 @@
 GoBang
 ======
-GoBang game created by Jetbrain IntelliJ in Java
+This game is created by IntelliJ.
